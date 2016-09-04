@@ -1,0 +1,6 @@
+{
+  "key": "IAMKEY",
+  "secret": "IAMSECRET",
+  "bucket": "XXXXXXXX",
+  "region": "us-east-1"
+}

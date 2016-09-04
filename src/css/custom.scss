@@ -1,0 +1,15 @@
+// basscss
+@import '../../node_modules/basscss-sass/scss/basscss.scss';
+
+@font-face {
+  font-family: 'Avenir Next LT Pro Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('☺'), url('../fonts/AvenirNextLTPro-Regular.woff') format('woff');
+}
+
+body {
+  font-family:'Avenir Next LT Pro Regular';
+  font-weight:normal;
+  line-height: 1.5;
+}
